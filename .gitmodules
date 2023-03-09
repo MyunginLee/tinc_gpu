@@ -1,0 +1,3 @@
+[submodule "tinc"]
+	path = tinc
+	url = https://github.com/AlloSphere-Research-Group/tinc.git
