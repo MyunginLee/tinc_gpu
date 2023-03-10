@@ -1,8 +1,8 @@
-# tinc-playground
+# tinc-gpu
 
 *No longer supported or recommended*
 
-Quick way to build tinc applications. Contains tutorials and cookbook examples.
+TINC (Toolkit for Interactive Computation) with GPU acceleration 
 
 Developed by:
 
