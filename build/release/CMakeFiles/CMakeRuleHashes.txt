@@ -1,0 +1,16 @@
+# Hashes of file build rules.
+9db6d20ba79e5cb0bae3b020495cc57d ../../tinc/src/tinc_protocol.pb.cc
+bc1379d5f53ffc89a7db99df5129bc35 ../../tinc/tinc-python/tinc-python/tinc_protocol_pb2.py
+53f03771a398b58e83b6a7ea85ee17e2 tinc/CMakeFiles/create_protobuf_files
+53f03771a398b58e83b6a7ea85ee17e2 tinc/CMakeFiles/protobufProject
+846e8ed2a164043ba2410e41ca8e3837 tinc/CMakeFiles/protobufProject-complete
+54f82b40b7de0520775595cef207a7c8 tinc/external/allolib/external/cpptoml/CMakeFiles/doc
+5cdafcdd036a3271893f4bcd689bba7d tinc/external/allolib/external/rtaudio/CMakeFiles/RTAUDIO_UNINSTALL
+57b4786f67a7d8a2548774e750e7af9e tinc/external/allolib/external/rtmidi/CMakeFiles/RTMIDI_UNINSTALL
+4a7ab57f8901d9d87da2e961c0a50100 tinc/external/protobuf/src/protobufProject-stamp/protobufProject-build
+966d17734944fcc9e3ad082086387ff5 tinc/external/protobuf/src/protobufProject-stamp/protobufProject-configure
+46b7dc8712ebc44bd3d35bf9e656976d tinc/external/protobuf/src/protobufProject-stamp/protobufProject-download
+70714cbe5f42e5b506432b24c99f98d6 tinc/external/protobuf/src/protobufProject-stamp/protobufProject-install
+ef5c8ecea168ea8591543d18dcd6ea23 tinc/external/protobuf/src/protobufProject-stamp/protobufProject-mkdir
+db97ddba3d9099125b462345b8c25cca tinc/external/protobuf/src/protobufProject-stamp/protobufProject-patch
+92508671b58c75b2ce91af7e3415056e tinc/external/protobuf/src/protobufProject-stamp/protobufProject-update

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "forward_list": "cpp",
+        "unordered_set": "cpp",
+        "ostream": "cpp"
+    }
+}

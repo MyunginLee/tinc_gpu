@@ -1,0 +1,2 @@
+/usr/bin/ar qc libal_soundfile.a CMakeFiles/al_soundfile.dir/src/al_SoundfileBuffered.cpp.o CMakeFiles/al_soundfile.dir/src/al_SoundfileBufferedRecord.cpp.o
+/usr/bin/ranlib libal_soundfile.a

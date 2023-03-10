@@ -1,8 +1,13 @@
 #include "al/app/al_App.hpp"
 #include "al/ui/al_ControlGUI.hpp"
 
-#include "tinc/ComputationChain.hpp"
-#include "tinc/CppProcessor.hpp"
+//#include "tinc/ComputationChain.hpp"
+//#include "tinc/CppProcessor.hpp"
+#include "tinc/DeferredComputation.hpp"
+#include "tinc/PeriodicTask.hpp"
+#include "tinc/TincServer.hpp"
+#include "tinc/vis/GUI.hpp"
+
 
 using namespace al;
 using namespace tinc;
@@ -57,7 +62,7 @@ struct MyApp : public App {
     process1.processingFunction = [&]() {
       data1 = sourceValue + 1.0;
       al_sleep(0.5);
-      std::cout << "Done processing 1" << std::endl;
+      std::cout << "Done processing 1" << std::endl;ComputationChain
       return true;
     };
     process1.id = "1";
