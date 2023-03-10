@@ -1,2 +1,0 @@
-/usr/bin/ar qc libal_spatialaudio.a CMakeFiles/al_spatialaudio.dir/src/al_Convolver.cpp.o CMakeFiles/al_spatialaudio.dir/src/al_Decorrelation.cpp.o CMakeFiles/al_spatialaudio.dir/zita-convolver-4.0.3/source/zita-convolver.cc.o
-/usr/bin/ranlib libal_spatialaudio.a
