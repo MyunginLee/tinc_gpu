@@ -1,7 +1,5 @@
 # tinc-gpu
 
-*No longer supported or recommended*
-
 TINC (Toolkit for Interactive Computation) with GPU acceleration 
 
 Developed by:
